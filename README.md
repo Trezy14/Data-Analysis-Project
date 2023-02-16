@@ -1,5 +1,4 @@
-# Data-Analysis-Project
-Analysis on Unicorn company database
+# SQL Data Analysis Project on Unicorn company database
 
 PROJECT: 
 You have been asked to support an investment firm by analyzing trends in high-growth companies. They are interested in understanding which 
